@@ -1,8 +1,5 @@
 # Day 04 – Python Functions and Modules 🐍
 
-Welcome to Day 4 of my 30 Days of Machine Learning journey!
-
-Today, I learned how to create reusable code using Python functions and modules.
 
 ## 🎯 Learning Objectives
 
@@ -259,8 +256,4 @@ Functions help organize Machine Learning workflows into reusable components:
 - Model training
 - Model evaluation
 
-**Status:** Day 4 – In Progress
 
-**Next:** Day 5 – NumPy for Machine Learning.
-
-🚀 Learning one day at a time!
