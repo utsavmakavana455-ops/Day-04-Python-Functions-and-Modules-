@@ -1,4 +1,4 @@
-# Day 04 – Python Functions and Modules 🐍
+# Day 04 – Python Functions and Modules 
 
 
 ## 🎯 Learning Objectives
